@@ -12,5 +12,7 @@
   },
   "publicUrlAssetMap": {
     "/app-assets": "..\\assets"
-  }
+  },
+  "organizationName": "iamswarnkar",
+  "projectName": "atri_Project"
 }
