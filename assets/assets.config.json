@@ -1,0 +1,23 @@
+{
+  "logo.avif": {
+    "mime": "image/avif"
+  },
+  "hamburger-burger.jpg": {
+    "mime": "image/jpeg"
+  },
+  "breakfast-pancakes.avif": {
+    "mime": "image/avif"
+  },
+  "burger-wooden-plate-fries.avif": {
+    "mime": "image/avif"
+  },
+  "chocolate.jpg": {
+    "mime": "image/jpeg"
+  },
+  "github.png": {
+    "mime": "image/png"
+  },
+  "insta.jpg": {
+    "mime": "image/jpeg"
+  }
+}
